@@ -34,6 +34,6 @@
 ### 🌐 Connect with Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/tejaswi-marka" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
-<a href="mailto:tejaswimarka@example.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" width="40" /></a>
+<a href="mailto:tejaswimarka07@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" width="40" /></a>
 <a href="https://github.com/tejaswimaraka" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" /></a>
 </p>  
