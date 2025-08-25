@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejaswimaraka" alt="tejaswimaraka" /></a> </p>
 
-- 🔭 I’m currently working on **Misinformation Detection**
+- 🔭 I have successfully completed my AI-powered Misinformation Detection project.
 
 - 🌱 I’m currently learning **Machine Learning**
 
