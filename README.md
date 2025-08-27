@@ -36,6 +36,6 @@
 <a href="https://www.linkedin.com/in/tejaswi-marka" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" /></a>
 <a href="mailto:tejaswimarka07@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" width="40" /></a>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchana-tejaswy&" alt="kanchana-tejaswy" /></p>
+ 
 <a href="https://github.com/tejaswimaraka" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" /></a>
 </p>  
