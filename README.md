@@ -39,3 +39,13 @@
  
 <a href="https://github.com/tejaswimaraka" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" /></a>
 </p>  
+
+
+
+
+
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswimaraka&" alt="tejaswimaraka" /></p>
