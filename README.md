@@ -27,7 +27,7 @@
 ### 📌 Featured Projects  
 🔹 **[AI-powered Misinformation Detection](#)** – Detects and explains misinformation using **Transformers, Knowledge Graphs, and XAI**.  
 🔹 **[AI-powered Snake Game](#)** – Enhanced the classic Snake Game with **AI-driven dynamics, multiple levels, and immersive gameplay**.  
-🔹 **[Agri-Trade Web App](#)** – A web platform to connect farmers with buyers using **HTML, CSS, and JavaScript** for rural empowerment.  
+🔹 **[Agri-Trade Web App](#)** – A web platform to connect farmers with buyers using **HTML, CSS, and JavaScript** for rural empowerment. 
 
 ---
 
