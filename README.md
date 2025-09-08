@@ -12,7 +12,7 @@
 - 🏆 **Globally Certified UiPath Developer** with expertise in **Robotic Process Automation (RPA).**.  
 - 🌱 Currently enhancing my **Problem-Solving Skills**, **Machine Learning**, and **Data Structures & Algorithms (DSA)**.  
 - 💡 Adaptable and quick to learn new technologies, with hands-on experience in **Python, Java, SQL, HTML, CSS, JavaScript, and ML**.  
-- 🎯 Aspiring to contribute to **AI-driven solutions, intelligent automation, and scalable software development**.  
+- 🎯 Aspiring to contribute to **AI-driven solutions, intelligent automation, and scalable software development** 
 
 ---
 
